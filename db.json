@@ -1,0 +1,25 @@
+{
+  "profile": {
+    "name": "Natalie Kyran Runtukahu",
+    "title": "Mahasiswa Informatika",
+    "summary": "Saya mahasiswa Universitas Klabat. Fakultas Ilmu Komputer, Prodi informatika.",
+    "location": "Manado, Sulawesi Utara",
+    "foto": "/kyran.jpg"
+  },
+  "skills": [
+    { "name": "HTML", "level": "Beginner" },
+    { "name": "CSS", "level": "Beginner" },
+    { "name": "JavaScript", "level": "Beginner" },
+    { "name": "React", "level": "Beginner" }
+  ],
+  "projects": [
+    {
+      "name": "Website CV Kuliah",
+      "desc": "Membuat personal website/CV pribadi menggunakan react app (vite + tailwind)."
+    }
+  ],
+  "contact": {
+    "email": "S2231031@student.unklab.ac.id",
+    "phone": "+62-857-5748-4892"
+  }
+}
